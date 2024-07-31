@@ -4,17 +4,18 @@
 
 ## :bookmark: Sobre o Projeto
 
-Esse sistema foi meu projeto de TCC do if baiano para conclusão de meu curso de análise e desenvolvimento de sistemas.
+"Este sistema foi meu projeto de TCC no IF Baiano para a conclusão do meu curso de Análise e Desenvolvimento de Sistemas.
 
 ## :rocket: Tecnologias Utilizadas
 
-- [framework codeigniter 3]
+- [Framework codeigniter 3]
 - [PHP, Bootstrap, SqlServe]
 - [Visual Studio]
 
 ## Layout mobile
 
-<img src="https://github.com/user-attachments/assets/9d43fef4-5dae-4734-81ad-26d4305da8a6" alt="drawing" width="1000"/>
+<img src="https://github.com/user-attachments/assets/de11b77d-18a4-44d3-a1df-61cf12b09763" alt="drawing" width="1000"/>
 <img src="https://github.com/user-attachments/assets/39af603d-7cc4-4f62-9ac2-0b6896f0696e" alt="drawing" width="1000"/>
-<img src="https://github.com/ClaitonGit/App_Agromix/assets/55120068/9bab00df-bb51-4dfa-90a9-84d9ee4283aa" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/0c95cadb-975c-42e4-a1c5-4ecfed4dbfe5" alt="drawing" width="1000"/>
+<img src="(https://github.com/user-attachments/assets/e22178f8-171d-485c-8717-1815c07d507d" alt="drawing" width="1000"/>
 
